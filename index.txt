@@ -1,0 +1,270 @@
+Blogy - Hey, we’re Blogy. See our thoughts, stories and ideas.
+This is a blog html template made by codewithsadee
+
+
+
+#---------- HEADER ----------#
+
+alt = Blogy logo
+
+Home
+Recent Post
+Membership
+
+aria-labe = search
+<ion-icon name="search-outline" aria-hidden="true"></ion-icon>
+Search
+
+aria-label = toggle menu
+
+Join
+
+
+
+#---------- SEARCH ----------#
+
+placeholder = Search
+
+aria-label = close search bar
+<ion-icon name="close-outline" aria-hidden="true"></ion-icon>
+
+Please enter at least 3 characters
+
+
+
+#---------- HERO ----------#
+
+Hey, we’re Blogy.
+See our thoughts, stories and ideas.
+
+placeholder = Your email address
+
+Subscribe
+
+Get the email newsletter and unlock access to members-only content and updates
+
+
+
+#---------- FEATURED POST ----------#
+
+Get started with our 
+best stories
+
+
+alt = New technology is not good or evil in and of itself
+alt = Author
+
+Design
+Idea
+Review
+
+New technology is not good or evil in and of itself
+
+Vestibulum vehicula dui venenatis neque tempor, accumsan iaculis sapien ornare. Sed at ante porta, ullamcorper massa eu, ullamcorper sapien. Donec pretium tortor augue. Integer egestas ut tellus sed pretium. Nullam tristique augue ut mattis vulputate. Duis et lorem in odio ultricies porttitor.
+
+
+alt = It’s a new era in design, there are no rules
+
+Creative
+Product
+
+It’s a new era in design, there are no rules
+
+Quibus autem in rebus tanta obscuratio non fit, fieri tamen potest, ut id ipsum, quod interest, non sit magnum. Ita fit ut, quanta differentia est in principiis naturalibus, tanta sit in finibus bonorum malorumque dissimilitudo.
+
+
+alt = Perfection has to do with the end product
+
+Design
+Creative
+Idea
+
+Perfection has to do with the end product
+
+Aenean eget urna aliquet, viverra orci quis, aliquam erat. Ut rutrum quam quam, eu eleifend est blandit et. Vivamus suscipit ultrices venenatis. Aliquam massa ipsum, porta quis hendrerit at, varius sed leo. Curabitur convallis urna sit amet mi tempus posuere.
+
+
+alt = Everyone has a different life story
+
+People
+Story
+
+Everyone has a different life story
+
+Non est igitur summum malum dolor. Tu autem inter haec tantam multitudinem hominum interiectam non vides nec laetantium nec dolentium. Nunc vero a primo quidem mirabiliter occulta natura est nec perspici nec cognosci potest.
+
+
+alt = The difference is quality
+
+Design
+Lifestyle
+Idea
+
+The difference is quality
+
+Vide, ne etiam menses! nisi forte eum dicis, qui, simul atque arripuit, interficit. Atque his de rebus et splendida est eorum et illustris oratio.
+
+
+alt = Problems are not stop signs, they are guidelines
+
+Idea
+Creating
+
+Problems are not stop signs, they are guidelines
+
+Quid ad utilitatem tantae pecuniae. Duo enim genera quae erant, fecit tria. Et quod est munus, quod opus sapientiae.
+
+
+
+#---------- RECENT POST ----------#
+
+See what we’ve
+written lately
+
+alt = top author
+
+Meet our top authors
+
+alt = Creating is a privilege but it’s also a gift
+alt = author
+
+Lifestyle
+People
+Review
+
+Creating is a privilege but it’s also a gift
+
+Nullam vel lectus vel velit pellentesque dignissim nec id magna. Cras molestie ornare quam at semper. Proin a ipsum ex. Curabitur eu venenatis justo. Nullam felis augue, imperdiet at sodales a, sollicitudin nec risus.
+
+
+alt = Being unique is better than being perfect
+
+Design
+Product
+Idea
+
+Being unique is better than being perfect
+
+Nam in pretium dui. Phasellus dapibus, mi at molestie cursus, neque eros aliquet nisi, non efficitur nisi est nec mi. Nullam semper, ligula a luctus ornare, leo turpis fermentum lectus, quis volutpat urna orci a lectus. Duis et odio lobortis, auctor justo ut, egestas magna.
+
+
+alt = Now we’re getting somewhere
+
+Idea
+Product
+Review
+
+Now we’re getting somewhere
+
+Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec volutpat rhoncus quam, a feugiat elit gravida eget. Curabitur id pharetra ligula. Integer porttitor suscipit ante ac faucibus. Sed a enim non enim viverra pulvinar vel diam ut lorem congue feugiat.
+
+
+alt = The trick to getting more done is to have the freedom to roam around
+
+Lifestyle
+Design
+
+The trick to getting more done is to have the freedom to roam around
+
+Integer nec mi cursus, blandit est et, auctor mauris. Aenean ex metus, faucibus in mattis at, tincidunt eu dolor. Cras hendrerit massa nec augue placerat rutrum. Sed facilisis massa enim, ac tempus diam elementum sit amet.
+
+
+alt = Every day, in every city and town across the country
+
+People
+Story
+Lifestyle
+
+Every day, in every city and town across the country
+
+Morbi a facilisis lectus. Ut eu dapibus risus, a interdum justo. Vestibulum volutpat velit ac tellus mollis, sit amet sodales metus elementum. Aliquam eu mi massa. Proin suscipit enim a pulvinar viverra.
+
+
+alt = Your voice, your mind, your story, your vision
+
+People
+Review
+Story
+
+Your voice, your mind, your story, your vision
+
+Nullam auctor nisi non tortor porta, id dapibus lectus rhoncus. Vivamus lobortis posuere enim finibus sodales. Phasellus quis tellus scelerisque, sagittis tortor et, maximus metus.
+
+Load more
+
+
+
+#---------- RECOMMENDED POST ----------#
+
+Recommended
+
+The trick to getting more done is to have the freedom to roam around 
+
+Every day, in every city and town across the country
+
+I work best when my space is filled with inspiration
+
+I have my own definition of minimalism
+
+Change your look and your attitude
+
+The difference is quality
+
+
+
+#---------- NEWSLETTER ----------#
+
+Subscribe to
+new posts
+
+placeholder = Your email address
+
+Subscribe
+
+
+
+#---------- FOOTER ----------#
+
+alt = Blogy logo
+
+A minimal, functional theme for running a paid-membership publication on Ghost.
+
+Social
+
+<ion-icon name="logo-facebook"></ion-icon>
+Facebook
+
+<ion-icon name="logo-twitter"></ion-icon>
+Twitter
+
+<ion-icon name="logo-pinterest"></ion-icon>
+Pinterest
+
+<ion-icon name="logo-vimeo"></ion-icon>
+Vimeo
+
+About
+
+Style Guide
+Features
+Contact
+404
+Privacy Policy
+
+Features
+
+Upcoming Events
+Blog & News
+Features
+FAQ Question
+Testimonial
+
+Membership
+
+Account
+Membership
+Subscribe
+Tags
+Authors
+
+&copy; Blogy 2022. Published by codewithsadee.
