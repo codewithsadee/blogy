@@ -1,11 +1,10 @@
-Blogy - Hey, we’re Blogy. See our thoughts, stories and ideas.
-This is a blog html template made by codewithsadee
+convenent - Creat your idea so it begins its path with us
 
 
 
 #---------- HEADER ----------#
 
-alt = Blogy logo
+alt = convenent logo
 
 Home
 Recent Post
@@ -34,7 +33,7 @@ Please enter at least 3 characters
 
 #---------- HERO ----------#
 
-Hey, we’re Blogy.
+Hey, we’re convenent.
 See our thoughts, stories and ideas.
 
 placeholder = Your email address
